@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Blog | Yaxin Wang</title>
+  <meta name="description" content="Articles on AI in ELT, L2 motivation, vocabulary acquisition, and teaching reflections by Yaxin Wang.">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="container">
+    <nav class="nav-inner">
+      <a class="nav-brand" href="index.html">Yaxin Wang <span>·</span> 王雅欣</a>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="vocabulary.html">Vocabulary</a></li>
+        <li><a href="resources.html">Resources</a></li>
+        <li><a href="blog.html" class="active">Blog</a></li>
+        <li><a href="about.html">About / CV</a></li>
+      </ul>
+      <button class="nav-toggle" aria-label="Toggle navigation">
+        <span></span><span></span><span></span>
+      </button>
+    </nav>
+  </div>
+</header>
+
+<div class="page-header">
+  <div class="container">
+    <h1>Teaching &amp; Research Blog ✍️</h1>
+    <p>Writing about language learning, AI in education, and what actually works in the ELT classroom.</p>
+  </div>
+</div>
+
+<section class="section">
+  <div class="container">
+
+    <!-- Blog list (shown by default) -->
+    <div id="blog-list">
+      <p>Loading posts…</p>
+    </div>
+
+    <!-- Single post view (hidden by default) -->
+    <div id="blog-post" class="blog-hidden"></div>
+
+    <!-- How to add posts -->
+    <div id="blog-add-guide" style="max-width:840px;margin:4rem auto 0;padding:1.75rem;background:var(--surface);border-radius:var(--radius);box-shadow:var(--shadow)">
+      <h3 style="color:var(--primary);margin-bottom:.75rem">✏️ How to publish a new post</h3>
+      <p>Open <code style="background:var(--accent-light);padding:2px 6px;border-radius:4px">data/blog-posts.json</code> and add a new object to the array.
+      The <code>content</code> field accepts HTML — use <code>&lt;p&gt;</code> for paragraphs, <code>&lt;h2&gt;</code> for headings, <code>&lt;blockquote&gt;</code> for quotes, <code>&lt;ul&gt;</code> for lists.</p>
+      <pre style="background:#1e2835;color:#a8d8a8;padding:1rem;border-radius:6px;font-size:.85rem;overflow-x:auto;margin-top:.75rem">{
+  "id": 4,
+  "title": "My New Article Title",
+  "category": "Teaching Reflections",
+  "date": "2025-05-01",
+  "readTime": "5 min read",
+  "excerpt": "A short 1-2 sentence teaser shown on the card.",
+  "content": "&lt;p&gt;Your full article goes here. Use HTML tags.&lt;/p&gt;&lt;h2&gt;Section heading&lt;/h2&gt;&lt;p&gt;More content.&lt;/p&gt;"
+}</pre>
+      <p style="margin-top:.75rem;color:var(--text-muted);font-size:.9rem">Tip: make sure each post has a unique <code>id</code> number. Increment from the last one.</p>
+    </div>
+
+  </div>
+</section>
+
+<footer class="site-footer">
+  <p>© 2025 Yaxin Wang · 王雅欣 &nbsp;|&nbsp; TESOL Researcher &amp; English Teacher</p>
+</footer>
+
+<script src="js/app.js"></script>
+</body>
+</html>

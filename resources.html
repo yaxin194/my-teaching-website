@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Teaching Resources | Yaxin Wang</title>
+  <meta name="description" content="Free English teaching and learning resources — IELTS writing, academic English, speaking, vocabulary, and grammar materials for Chinese learners.">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="container">
+    <nav class="nav-inner">
+      <a class="nav-brand" href="index.html">Yaxin Wang <span>·</span> 王雅欣</a>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="vocabulary.html">Vocabulary</a></li>
+        <li><a href="resources.html" class="active">Resources</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="about.html">About / CV</a></li>
+      </ul>
+      <button class="nav-toggle" aria-label="Toggle navigation">
+        <span></span><span></span><span></span>
+      </button>
+    </nav>
+  </div>
+</header>
+
+<div class="page-header">
+  <div class="container">
+    <h1>Teaching Resources 📂</h1>
+    <p>Free materials for IELTS, academic writing, speaking, vocabulary, and grammar — designed for Chinese English learners.</p>
+  </div>
+</div>
+
+<section class="section">
+  <div class="container">
+
+    <div class="filter-bar">
+      <button class="filter-btn active" data-filter="all">All</button>
+      <button class="filter-btn" data-filter="writing">✍️ Writing</button>
+      <button class="filter-btn" data-filter="speaking">🗣️ Speaking</button>
+      <button class="filter-btn" data-filter="vocab">📖 Vocabulary</button>
+      <button class="filter-btn" data-filter="grammar">🔧 Grammar</button>
+    </div>
+
+    <div class="grid-3" id="resources-grid">
+      <p>Loading resources…</p>
+    </div>
+
+    <!-- How to add resources -->
+    <div style="max-width:840px;margin:4rem auto 0;padding:1.75rem;background:var(--surface);border-radius:var(--radius);box-shadow:var(--shadow)">
+      <h3 style="color:var(--primary);margin-bottom:.75rem">➕ How to add more resources</h3>
+      <p>Open <code style="background:var(--accent-light);padding:2px 6px;border-radius:4px">data/resources.json</code> and add a new entry.
+      To add a downloadable file, put the file in a <code>files/</code> folder and set <code>"link"</code> to its path (e.g. <code>"files/essay-template.pdf"</code>).</p>
+      <pre style="background:#1e2835;color:#a8d8a8;padding:1rem;border-radius:6px;font-size:.85rem;overflow-x:auto;margin-top:.75rem">{
+  "title": "Resource Title",
+  "description": "What it contains and who it's for.",
+  "category": "writing",  ← writing / speaking / vocab / grammar
+  "level": "B2–C1",
+  "tags": ["IELTS", "Essay"],
+  "link": "files/my-resource.pdf",
+  "linkText": "Download PDF"
+}</pre>
+    </div>
+
+  </div>
+</section>
+
+<footer class="site-footer">
+  <p>© 2025 Yaxin Wang · 王雅欣 &nbsp;|&nbsp; TESOL Researcher &amp; English Teacher</p>
+</footer>
+
+<script src="js/app.js"></script>
+</body>
+</html>
