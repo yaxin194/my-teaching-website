@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "word": "ubiquitous",
+    "phonetic": "/juːˈbɪk.wɪ.təs/",
+    "partOfSpeech": "adjective",
+    "definition": "present, appearing, or found everywhere",
+    "sentence": "Smartphones have become so ubiquitous in modern classrooms that teachers must now design lessons that leverage rather than ban them.",
+    "sentenceCN": "智能手机在现代课堂中已变得无处不在，教师现在必须设计能够利用而非禁止它们的课程。",
+    "usageNote": "Frequently used in academic writing to describe phenomena that have become widespread. Often followed by 'in' or 'among'.",
+    "level": "C1",
+    "category": "Academic"
+  },
+  {
+    "id": 2,
+    "word": "albeit",
+    "phonetic": "/ɔːlˈbiː.ɪt/",
+    "partOfSpeech": "conjunction",
+    "definition": "although; even though (used to introduce a concession)",
+    "sentence": "The student's essay showed significant improvement, albeit with some persistent grammatical errors in her use of articles.",
+    "sentenceCN": "这位学生的文章有了显著进步，尽管在冠词使用上仍存在一些持续性的语法错误。",
+    "usageNote": "Formal conjunction. Use it to acknowledge a qualification or reservation while maintaining the main point. Never use in spoken English.",
+    "level": "C1",
+    "category": "Academic"
+  },
+  {
+    "id": 3,
+    "word": "coherence",
+    "phonetic": "/kəʊˈhɪə.rəns/",
+    "partOfSpeech": "noun",
+    "definition": "the quality of being logical and consistent; the way ideas in writing are clearly connected",
+    "sentence": "One of the most common weaknesses in IELTS Task 2 essays is a lack of coherence—ideas are present but not logically linked.",
+    "sentenceCN": "雅思Task 2写作中最常见的弱点之一是缺乏连贯性——观点是有的，但逻辑上没有衔接。",
+    "usageNote": "An IELTS marking criterion. Distinguish from 'cohesion' (linking devices) — coherence is about logical flow of ideas.",
+    "level": "B2",
+    "category": "IELTS"
+  },
+  {
+    "id": 4,
+    "word": "exacerbate",
+    "phonetic": "/ɪɡˈzæs.ə.beɪt/",
+    "partOfSpeech": "verb",
+    "definition": "to make a problem, bad situation, or negative feeling worse",
+    "sentence": "Poor sleep habits can exacerbate test anxiety, leading students to underperform even when they are well-prepared.",
+    "sentenceCN": "不良的睡眠习惯会加剧考试焦虑，导致学生即使准备充分也会表现不佳。",
+    "usageNote": "High-value IELTS vocabulary. Collocates with: problem, situation, tension, inequality, symptoms.",
+    "level": "C1",
+    "category": "IELTS"
+  },
+  {
+    "id": 5,
+    "word": "intrinsic motivation",
+    "phonetic": "/ɪnˈtrɪn.zɪk ˌməʊ.tɪˈveɪ.ʃən/",
+    "partOfSpeech": "noun phrase",
+    "definition": "motivation driven by internal rewards — genuine interest, curiosity, or personal satisfaction — rather than external pressures",
+    "sentence": "Research consistently shows that learners with strong intrinsic motivation acquire language more deeply and retain it longer than those motivated by grades alone.",
+    "sentenceCN": "研究一致表明，具有强烈内在动机的学习者比仅以成绩为动力的学习者能更深入地习得语言并保持更长时间。",
+    "usageNote": "Key concept in SLA and educational psychology. Contrast with 'extrinsic motivation'. Central to Self-Determination Theory (Deci & Ryan).",
+    "level": "C1",
+    "category": "Academic"
+  },
+  {
+    "id": 6,
+    "word": "mitigate",
+    "phonetic": "/ˈmɪt.ɪ.ɡeɪt/",
+    "partOfSpeech": "verb",
+    "definition": "to make something less severe, serious, or painful",
+    "sentence": "Communicative language teaching approaches can mitigate the anxiety many Chinese learners feel about speaking in front of peers.",
+    "sentenceCN": "交际语言教学法可以减轻许多中国学习者在同伴面前开口说话时感到的焦虑。",
+    "usageNote": "Formal academic word. Often used in discussion/conclusion sections. Collocates: mitigate the effects/risks/impact of.",
+    "level": "C1",
+    "category": "Academic"
+  },
+  {
+    "id": 7,
+    "word": "lexical resource",
+    "phonetic": "/ˈlek.sɪ.kəl rɪˈzɔːs/",
+    "partOfSpeech": "noun phrase",
+    "definition": "the range and accuracy of vocabulary a learner can use; one of four IELTS Writing band descriptors",
+    "sentence": "To boost your lexical resource score, focus not just on using rare words but on using common words precisely and collocating them correctly.",
+    "sentenceCN": "要提升词汇资源得分，不仅要关注使用生僻词，还要精确使用常用词并正确搭配。",
+    "usageNote": "IELTS-specific term. Examiners look for: paraphrase, collocation, less common vocabulary, and absence of errors.",
+    "level": "B2",
+    "category": "IELTS"
+  },
+  {
+    "id": 8,
+    "word": "scaffolding",
+    "phonetic": "/ˈskæf.əl.dɪŋ/",
+    "partOfSpeech": "noun",
+    "definition": "temporary support provided by a teacher to help a learner achieve something they could not yet do independently",
+    "sentence": "Effective scaffolding involves gradually withdrawing support as the learner gains confidence, moving them toward autonomous production.",
+    "sentenceCN": "有效的脚手架支持涉及随着学习者信心的增长逐渐撤回支持，引导他们走向自主输出。",
+    "usageNote": "From Vygotsky's Zone of Proximal Development. A key concept in ELT methodology. Used as both noun and verb ('to scaffold a task').",
+    "level": "C1",
+    "category": "ELT"
+  },
+  {
+    "id": 9,
+    "word": "paraphrase",
+    "phonetic": "/ˈpær.ə.freɪz/",
+    "partOfSpeech": "verb / noun",
+    "definition": "to restate something in different words, usually to clarify or to avoid plagiarism",
+    "sentence": "In the IELTS Task 1 introduction, candidates must paraphrase the question prompt rather than copy it directly.",
+    "sentenceCN": "在雅思Task 1的引言中，考生必须对题目进行改写，而不能直接抄写原文。",
+    "usageNote": "Essential academic skill. Effective paraphrasing changes both vocabulary AND sentence structure. Changing only words = 'patchwriting'.",
+    "level": "B2",
+    "category": "IELTS"
+  },
+  {
+    "id": 10,
+    "word": "nuanced",
+    "phonetic": "/ˈnjuː.ɑːnst/",
+    "partOfSpeech": "adjective",
+    "definition": "showing awareness of subtle differences; not simplistic",
+    "sentence": "A band-9 IELTS response offers a nuanced argument that acknowledges complexity rather than presenting one-sided views.",
+    "sentenceCN": "雅思9分回答提供了一个细致入微的论点，承认复杂性，而非呈现片面观点。",
+    "usageNote": "Frequently praised in academic feedback. The noun 'nuance' and verb 'to nuance' are also useful. Very high register.",
+    "level": "C2",
+    "category": "Academic"
+  }
+]

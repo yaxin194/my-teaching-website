@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "IELTS Task 2: Argument Essay Template",
+    "description": "A clear paragraph-by-paragraph template for opinion and discussion essays, with annotated model paragraphs showing how to structure arguments at Band 7+.",
+    "category": "writing",
+    "level": "B2–C1",
+    "tags": ["IELTS", "Essay", "Template"],
+    "link": "#",
+    "linkText": "Download PDF"
+  },
+  {
+    "id": 2,
+    "title": "Academic Collocation List (Top 200)",
+    "description": "The 200 most useful verb-noun and adjective-noun collocations for academic writing, organised by topic, with example sentences drawn from real IELTS topics.",
+    "category": "vocab",
+    "level": "B2–C2",
+    "tags": ["Academic", "Vocabulary", "Collocation"],
+    "link": "#",
+    "linkText": "Download PDF"
+  },
+  {
+    "id": 3,
+    "title": "IELTS Speaking Part 2: Topic Cards",
+    "description": "30 print-ready cue cards covering the most frequently tested Part 2 topics, with vocabulary prompts and sample answer outlines for each card.",
+    "category": "speaking",
+    "level": "B1–C1",
+    "tags": ["IELTS", "Speaking", "Flashcards"],
+    "link": "#",
+    "linkText": "Download PDF"
+  },
+  {
+    "id": 4,
+    "title": "Academic Paragraph Writing: PEEL Model",
+    "description": "A worksheet introducing the PEEL (Point – Evidence – Explanation – Link) paragraph structure, with guided practice exercises and feedback checklists.",
+    "category": "writing",
+    "level": "B1–B2",
+    "tags": ["Academic", "Paragraph", "Structure"],
+    "link": "#",
+    "linkText": "Download PDF"
+  },
+  {
+    "id": 5,
+    "title": "Pronunciation: English Sounds for Chinese Learners",
+    "description": "Targeted pronunciation guide addressing the specific phonological challenges Chinese L1 speakers face: final consonants, /l/ vs /r/, and vowel length.",
+    "category": "speaking",
+    "level": "A2–B2",
+    "tags": ["Pronunciation", "Phonology", "Chinese Learners"],
+    "link": "#",
+    "linkText": "Download PDF"
+  },
+  {
+    "id": 6,
+    "title": "Articles in English: A/An/The/Ø",
+    "description": "A comprehensive grammar reference and practice sheet for articles — one of the most persistent difficulty areas for Chinese English learners. Includes rules, exceptions, and 40 practice items.",
+    "category": "grammar",
+    "level": "A2–C1",
+    "tags": ["Grammar", "Articles", "Chinese Learners"],
+    "link": "#",
+    "linkText": "Download PDF"
+  },
+  {
+    "id": 7,
+    "title": "Hedging Language in Academic Writing",
+    "description": "How to express uncertainty, caution, and qualification like an academic writer. Covers modal verbs, adverbs, and reporting verbs with practice examples.",
+    "category": "writing",
+    "level": "C1–C2",
+    "tags": ["Academic Writing", "Hedging", "Advanced"],
+    "link": "#",
+    "linkText": "Download PDF"
+  },
+  {
+    "id": 8,
+    "title": "Fluency Builder: 60-Second Talks",
+    "description": "A set of 40 engaging topic cards for timed speaking practice. Students talk for 60 seconds on an accessible topic, building fluency and reducing hesitation.",
+    "category": "speaking",
+    "level": "B1–B2",
+    "tags": ["Speaking", "Fluency", "Classroom Activity"],
+    "link": "#",
+    "linkText": "Download PDF"
+  }
+]
